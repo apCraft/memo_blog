@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `メモBlog (AMP to PWA)`,
-    author: `備忘録`,
+    author: `メモ備忘録`,
     description: `メモとして利用`,
     siteUrl: `https://confident-engelbart-ac4385.netlify.app/`,
     social: {
