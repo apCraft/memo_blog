@@ -1,6 +1,6 @@
 ---
 title: 個人用linuxbrewとnodeのインストール
-date: "2021-04-01T18:32:03.284Z"
+date: "2021-03-31T18:32:03.284Z"
 ---
 
 個人用linuxbrewとnodeのインストール
